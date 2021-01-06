@@ -256,7 +256,7 @@ body {
     color: var(--white);
   }
 
-  .nav ul li:not(:last-child) {
+  .nav ul li:not(:first-child) {
     margin-left: 0.55rem;
   }
 }
